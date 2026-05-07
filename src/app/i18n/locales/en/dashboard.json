@@ -1,0 +1,12 @@
+{
+  "title": "Dashboard",
+  "welcome": "Welcome back",
+  "overview": "Overview",
+  "recentActivity": "Recent Activity",
+  "stats": {
+    "totalUsers": "Total Users",
+    "activeOrgs": "Active Organizations",
+    "revenue": "Revenue",
+    "growth": "Growth"
+  }
+}

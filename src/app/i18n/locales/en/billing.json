@@ -1,0 +1,37 @@
+{
+  "title": "Billing & Plans",
+  "description": "Manage your subscription and payment methods.",
+  "currentPlan": "Current Plan",
+  "upgrade": "Upgrade",
+  "downgrade": "Downgrade",
+  "cancelSubscription": "Cancel Subscription",
+  "paymentMethod": "Payment Method",
+  "updatePayment": "Update Payment Method",
+  "billingHistory": "Billing History",
+  "date": "Date",
+  "amount": "Amount",
+  "status": "Status",
+  "invoice": "Invoice",
+  "paid": "Paid",
+  "pending": "Pending",
+  "failed": "Failed",
+  "noBillingHistory": "No billing history available.",
+  "plans": {
+    "free": {
+      "name": "Free",
+      "description": "For individuals getting started."
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "For small teams."
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "For growing companies."
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations."
+    }
+  }
+}

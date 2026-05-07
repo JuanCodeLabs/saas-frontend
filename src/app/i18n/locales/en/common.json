@@ -1,0 +1,28 @@
+{
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "search": "Search"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "unauthorized": "You don't have permission to do this.",
+    "notFound": "The requested resource was not found.",
+    "network": "Network error. Check your connection."
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "billing": "Billing",
+    "profile": "Profile",
+    "members": "Members",
+    "logout": "Log out"
+  }
+}
